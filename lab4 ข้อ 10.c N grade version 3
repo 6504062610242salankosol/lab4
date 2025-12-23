@@ -44,8 +44,6 @@ int main()
 		}
 	}
 	
-	printf("\n");
-	
 	printf("A(%d)\n",ga);
 	printf("B(%d)\n",gb);
 	printf("C(%d)\n",gc);
